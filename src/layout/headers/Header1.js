@@ -57,12 +57,7 @@ const Header1 = ({ openSearchModal }) => {
             {/*=== Site Branding ===*/}
             <div className="site-branding">
               <Link legacyBehavior href="/">
-                <a className="brand-logo">
-                  <img
-                    src="assets/images/logo/logo-white.png"
-                    alt="Site Logo"
-                  />
-                </a>
+                <h4 className="logos">🍔GrillBite</h4>
               </Link>
             </div>
             {/*=== Nav Inner Menu ===*/}

@@ -16,10 +16,7 @@ const Footer1 = () => {
                 <div className="footer-content">
                   <Link legacyBehavior href="/">
                     <a className="footer-logo mb-30">
-                      <img
-                        src="assets/images/logo/logo-white.png"
-                        alt="Brand Logo"
-                      />
+                      <h4 className="f-logos">🍔 GrillBite</h4>
                     </a>
                   </Link>
                   <p>

@@ -66,7 +66,7 @@ const Index = () => {
             <div className="col-xl-6 col-lg-10">
               {/*=== Section Title ===*/}
               <div className="section-title text-center text-white mb-50 wow fadeInDown">
-                <span className="sub-title">Our Popular Food</span>
+                <span className="sub-title">Grillbite Popular Food</span>
                 <h2>Best Category Foods Menu</h2>
               </div>
             </div>
@@ -217,7 +217,7 @@ const Index = () => {
               {/*=== About Content Box ===*/}
               <div className="about-content-box content-box-gap mb-40 wow fadeInLeft">
                 <div className="section-title section-title-left mb-30">
-                  <span className="sub-title">About Qichen</span>
+                  <span className="sub-title">About GrillBite</span>
                   <h2>
                     The Best Tasty &amp; Yamee Food and Chief Based on Italiano
                   </h2>
@@ -268,7 +268,7 @@ const Index = () => {
             <div className="col-xl-6 col-lg-10">
               {/*=== Section Title ===*/}
               <div className="section-title text-center mb-50 wow fadeInDown">
-                <span className="sub-title">Best food menu</span>
+                <span className="sub-title">Best food menu at GrillBite</span>
                 <h2>Choose Your Best Menus</h2>
               </div>
             </div>
@@ -297,7 +297,7 @@ const Index = () => {
                         <a className="item-title">Hamburger</a>
                       </Link>
                       <span className="dot-border" />
-                      <span className="price">$25</span>
+                      <span className="price">$22.99</span>
                     </h3>
                     <p>Roasted langoustine, consommé</p>
                     <ul className="ratings">
@@ -318,7 +318,7 @@ const Index = () => {
                       </li>
                       <li>
                         <span>
-                          <a href="#">(5k Reviews)</a>
+                          <a href="#">(41 Reviews)</a>
                         </span>
                       </li>
                     </ul>
@@ -335,7 +335,7 @@ const Index = () => {
                         <a className="item-title">Pizza</a>
                       </Link>
                       <span className="dot-border" />
-                      <span className="price">$63</span>
+                      <span className="price">$59.99</span>
                     </h3>
                     <p>Roasted langoustine, consommé</p>
                     <ul className="ratings">
@@ -356,7 +356,7 @@ const Index = () => {
                       </li>
                       <li>
                         <span>
-                          <a href="#">(5k Reviews)</a>
+                          <a href="#">(100 Reviews)</a>
                         </span>
                       </li>
                     </ul>
@@ -373,7 +373,7 @@ const Index = () => {
                         <a className="item-title">Baked Chicken Wings</a>
                       </Link>
                       <span className="dot-border" />
-                      <span className="price">$199</span>
+                      <span className="price">$190.99</span>
                     </h3>
                     <p>Roasted langoustine, consommé</p>
                     <ul className="ratings">
@@ -394,7 +394,7 @@ const Index = () => {
                       </li>
                       <li>
                         <span>
-                          <a href="#">(5k Reviews)</a>
+                          <a href="#">(49 Reviews)</a>
                         </span>
                       </li>
                     </ul>
@@ -411,7 +411,7 @@ const Index = () => {
                         <a className="item-title">Seafood Pizza</a>
                       </Link>
                       <span className="dot-border" />
-                      <span className="price">$352</span>
+                      <span className="price">$349.99</span>
                     </h3>
                     <p>Roasted langoustine, consommé</p>
                     <ul className="ratings">
@@ -432,7 +432,7 @@ const Index = () => {
                       </li>
                       <li>
                         <span>
-                          <a href="#">(5k Reviews)</a>
+                          <a href="#">(15 Reviews)</a>
                         </span>
                       </li>
                     </ul>
@@ -456,11 +456,11 @@ const Index = () => {
               {/*=== Chef Content Box ===*/}
               <div className="chef-content-box content-box-gap mb-30 pr-lg-30 wow fadeInLeft">
                 <div className="section-title section-title-left mb-30">
-                  <span className="sub-title">Best food menu</span>
+                  <span className="sub-title">GrillBite's Best food menu</span>
                   <h2>Meet Our Exclusive &amp; Master Chefs</h2>
                 </div>
                 <ul className="check-style-one">
-                  <li>25 Years of Experience in Restaurant Services in USA</li>
+                  <li>12 Years of Experience in Restaurant Services in USA</li>
                   <li>
                     Any Kind Of Food Made For Customer and So Much Yamee $ Testy
                   </li>
@@ -653,20 +653,20 @@ const Index = () => {
               {/*=== Working Content Box ===*/}
               <div className="working-content-box wow fadeInLeft">
                 <div className="section-title section-title-left mb-50">
-                  <span className="sub-title">Working hour</span>
+                  <span className="sub-title">GrillBite's Working hour</span>
                   <h2>Enjoy Our Foods From 6 Days In a Week</h2>
                 </div>
                 <div className="single-hour-box mb-20">
                   <h4 className="title">
                     Monday - Friday <span className="dot-border" />
-                    <span className="time">09am-6pm</span>
+                    <span className="time">09.30am-6pm</span>
                   </h4>
                 </div>
                 <div className="single-hour-box mb-20">
                   <h4 className="title">
                     Saturday
                     <span className="dot-border" />
-                    <span className="time">08am-7pm</span>
+                    <span className="time">09am-7pm</span>
                   </h4>
                 </div>
                 <div className="single-hour-box mb-20">

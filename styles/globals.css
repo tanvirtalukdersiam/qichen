@@ -7,7 +7,21 @@ body {
 .desktop-menu {
   display: block;
 }
+.logos {
+  background-color: #df3f00;
+  padding: 22px 26px;
+  color: azure;
+  font-size: 30px;
+  border-radius: 3px;
+}
 
+.f-logos {
+  font-size: 34px;
+  color: aliceblue;
+  padding: 8px 6px;
+  background-color: #df3f00;
+  border-radius: 4px !important;
+}
 select {
   width: 100%;
   appearance: none;
